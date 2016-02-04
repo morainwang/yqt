@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Length: 65
+
+{ "cmd":2011, "uid":530, "recver":520, "termtype":1, "status":6 }
